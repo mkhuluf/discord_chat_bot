@@ -13,7 +13,14 @@ This is a coding tutorial project from FreeCodeCamp, taught by Lynn Zheng. This 
 		- Flask - 1.1.2
 
 
-### TO DO:
+## References
+[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character](https://www.freecodecamp.org/news/discord-ai-chatbot/)
+[Python Discord Bot Tutorial – Code a Discord Bot And Host it for Free](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/)
+[Build a Discord AI Chatbot that Speaks like Your Favorite Character!](https://github.com/RuolinZheng08/twewy-discord-chatbot)
+
+
+
+## TO DO
 
 1.) Collect and clean dataset containing transcripts from the following TV Shows
 - Static Shock
